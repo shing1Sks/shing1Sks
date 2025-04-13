@@ -7,7 +7,7 @@ Full Stack Developer (MERN)
 Btech CSE student . Here currently - 2nd year Have been doin Web Dev from the first year and currently exploring aiml ! Always love exploring various sectors aiml/webdev/web3 etc !!
 
 *   🌍  I'm based in India ❤️
-*   🖥️  See my portfolio at [My Portfolio !](http://https://shingfolio-shreyash-kumar-singhs-projects-bcc168a5.vercel.app/)
+*   🖥️  See my portfolio at [My Portfolio !](https://portofolo-sigma.vercel.app/)
 *   ✉️  You can contact me at [shreyashks02@gmail.com](mailto:shreyashks02@gmail.com)
 *   🧠  I'm learning AI ML
 *   🤝  I'm open to collaborating on cool stuff all around !
