@@ -12,7 +12,7 @@ I started my journey with Web Development in my first year and have since expand
 - 📫 Email: [shreyashks02@gmail.com](mailto:shreyashks02@gmail.com)
 - 🧠 Currently learning: Machine Learning, Deep Learning, Generative AI
 - 🤝 Open to collaborations on exciting, impactful tech projects
-- ⚡ Fun fact: Participated in Hacktoberfest 2024 — 2 PRs merged!
+- ⚡ Fun fact: Participated in Hacktoberfest 2024 — 2 PRs merged @[Electrcity Maps](https://github.com/electricitymaps/electricitymaps-contrib#readme)!
 
 Let’s build something awesome together! 🚀
   
