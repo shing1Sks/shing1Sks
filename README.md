@@ -80,12 +80,5 @@ Let’s build something awesome together! 🚀
   <img src="https://cdn-icons-png.flaticon.com/512/10028/10028157.png" width="40" title="Transformers"/>
 </p>
 
-
----
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=shing1Sks&theme=tokyonight&hide_border=false&count_private=true&show_icons=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shing1Sks&theme=tokyonight&hide_border=false&layout=compact)
-
 ---
 [![An image of @shing1sks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shing1sks)](https://holopin.io/@shing1sks)
