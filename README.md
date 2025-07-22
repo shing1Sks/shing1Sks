@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 **Full Stack Developer (MERN) | GenAI Enthusiast | AI/ML/DL Explorer**
 
-Hey there! I'm a passionate B.Tech CSE student (currently in 2nd year) based in India 🇮🇳.  
+Hey there! I'm a passionate B.Tech CSE student (currently in 3rd year) based in India 🇮🇳.  
 I started my journey with Web Development in my first year and have since expanded into the world of AI/ML/DL and Generative AI. I love diving into diverse tech domains — from full-stack apps to AI-driven systems, and even exploring Web3 occasionally!
 
 - 🌐 Portfolio: [Check it out here](https://portofolo-sigma.vercel.app/)
