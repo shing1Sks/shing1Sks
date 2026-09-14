@@ -14,10 +14,11 @@ I write about this work on [LinkedIn](https://www.linkedin.com/in/shreyash-k-sin
 
 ## Currently / recently
 
-**AI Intern — FabricHQ** · Oct 2025 – Jan 2026  
-Rebuilt their resume-screening pipeline from scratch. Multi-layer LLM matching (OpenAI + Claude), evals-driven iteration, cost controls, Django integration. Worked directly with the CTO on architecture and hiring-signal quality.
+**Full Stack Developer Intern — [ContraVault](https://www.contravault.com/)** · May 2026 – Present  
+Researching and shipping LLM + CV pipelines for complex engineering drawings (including YOLO fine-tunes), then taking agent products live on AWS — tender procurement and tender comparison. Exploring transient + long-term memory so production agents adapt per client (same product, grows with you). Client-facing demos/meetings on products I own, plus internal tools that make the team faster.
 
-<!-- latest experience — add when ready -->
+**AI Intern — [FabricHQ](https://fabrichq.ai/)** · Oct 2025 – Jan 2026  
+Rebuilt their resume-screening pipeline from scratch. Multi-layer LLM matching (OpenAI + Claude), evals-driven iteration, cost controls, Django integration. Worked directly with the CTO on architecture and hiring-signal quality.
 
 ---
 
@@ -66,7 +67,7 @@ Proof that agentic automation doesn't need a huge custom stack — orchestration
 
 ## Elsewhere
 
-- ?? Portfolio: [portofolo-sigma.vercel.app](https://portofolo-sigma.vercel.app/) � old build, not updated; might be slightly broken ??
+- ?? Portfolio: [portofolo-sigma.vercel.app](https://portofolo-sigma.vercel.app/) � old build, not updated; might be slightly broken ??
 - ?? LinkedIn: [shreyash-k-singh](https://www.linkedin.com/in/shreyash-k-singh)
 - ?? Email: shreyashks02@gmail.com
 
