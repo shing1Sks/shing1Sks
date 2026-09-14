@@ -66,9 +66,9 @@ Proof that agentic automation doesn't need a huge custom stack — orchestration
 
 ## Elsewhere
 
-- Portfolio: [portofolo-sigma.vercel.app](https://portofolo-sigma.vercel.app/)
-- LinkedIn: [shreyash-k-singh](https://www.linkedin.com/in/shreyash-k-singh)
-- Email: shreyashks02@gmail.com
+- ?? Portfolio: [portofolo-sigma.vercel.app](https://portofolo-sigma.vercel.app/) � old build, not updated; might be slightly broken ??
+- ?? LinkedIn: [shreyash-k-singh](https://www.linkedin.com/in/shreyash-k-singh)
+- ?? Email: shreyashks02@gmail.com
 
 KIIT — B.Tech CSE, expected May 2027
 
